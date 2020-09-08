@@ -1,3 +1,9 @@
+# Why is this forked?
+
+The original, tiangolo/docker-with-compose, has a slightly out of date docker-compose version. When it's updated to 1.26.2 (see https://github.com/tiangolo/docker-with-compose/issues/19 ) this repo will be removed.
+
+---------------
+
 [![Build Status](https://travis-ci.com/tiangolo/docker-with-compose.svg?branch=master)](https://travis-ci.com/tiangolo/docker-with-compose)
 
 ## Supported tags and respective `Dockerfile` links
